@@ -80,6 +80,10 @@
 
 ### ICCV2017
 
+* @**CFWCR** Zhiqun He, Yingruo Fan, Junfei Zhuang, Yuan Dong, HongLiang Bai.
+  "Correlation Filters with Weighted Convolution Responses" arXiv (2017).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/He_Correlation_Filters_With_ICCV_2017_paper.pdf)]
+  
 * **CREST:** Yibing Song, Chao Ma, Lijun Gong, Jiawei Zhang, Rynson Lau, Ming-Hsuan Yang. 
   "CREST: Convolutional Residual Learning for Visual Tracking." ICCV (2017 **Spotlight**). 
   [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Song_CREST_Convolutional_Residual_ICCV_2017_paper.pdf)]
